@@ -12,7 +12,7 @@ A Colarado Board of Elections employee has given a task to complete the election
 
 ## Resources
 
--Data source: election_results.csv(https://github.com/taranahassan/Elections_Analysis/tree/main/Resources)
+-Data source: election_results.csv(https://github.com/taranahassan/Elections_Analysis/blob/main/Resources/election_results.csv)
 -Software: Python 3.7, Visual Studio Code 1.52.1
 
 ## Summary
