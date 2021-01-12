@@ -20,15 +20,11 @@ A Colarado Board of Elections employee has given a task to complete the election
 The analysis of the election results identify:
 - There are a total of 369,711 votes casted in this election.
 - There were a total of 3 candidates running for this race:
-      - Charles Casper Stockham
-      - Diana DeGette
-      - Raymon Anthony Doane
+      a) Charles Casper Stockham
+      b) Diana DeGette
+      c) Raymon Anthony Doane
 - Each candidate results were:
-
-      1. Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
-      
-      2. Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-      
-      3. Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
-      
+      a) Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
+      b) Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+      c) Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was Diana DeGette leading with 73.8% of the vote and 272,892 number of votes.
