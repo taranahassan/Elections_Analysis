@@ -42,6 +42,7 @@ Below is a screenshot of the election results saved in a text file.
 ![Election_results](https://github.com/taranahassan/Elections_Analysis/blob/main/Elections_results.png?raw=true)
 
 
+
 ## Election Audit Summary
 
 The code written using Python was successful in automating the process to tally up the results for each category.  Setting up variable names with a value before dictating the action required is essential. ![Setting_variable_example](https://github.com/taranahassan/Elections_Analysis/blob/main/Setting_variable_example.png?raw=true)
@@ -51,6 +52,10 @@ There was the use of for loop method which lets us search through the entire dat
 The if statements were used to pick out the selected information we require. ![If_statement_example](https://github.com/taranahassan/Elections_Analysis/blob/main/If_statement_example.png?raw=true)
 
 Once the code is set up to retrieve the specific data, we are able to format the output to be readable.  ![Formatting_output_example](https://github.com/taranahassan/Elections_Analysis/blob/main/Formatting_output_example.png?raw=true)
+
+The code can be reused for other precincts Congressional elections as well, nothing in the code would need to be changed except maybe the file path and the data source file that needs to be opened and read.
+We could use this code for a Senatorial Election.  Dataset would be much larger therefore much more beneficial and efficient when doing an election audit.  The same code would need to be expanded.  Since the current code only extracts information for counties and candidates for the precinct of Colarado, we would need to expand that to provide multiple precincts within a city and then multiple cities within a state.  We would need to add more variables to initialize total votes for each city and state in addition to the county already set.  
+Each city will have their own candidates running for the House of Representatives and each state will have candidates running for the Senate position.  In the 1st for loop with if-then statements we have, is extracting list of counties, each counties totaling votes and percentages, the list of candidates and their respective votes and percentages. We would need to initialize a 2nd for loop with if-then statements to extract the same for cities, each cities' totaling votes and percentages, the candidates within the city and their respective votes and percentages.  A 4th for loop with if-then statements will be the same each state.  The code thereafter to print and save to the text file for total votes casted for each county, number of votes and percentage of votes received by each candidate can be copied for cities and states, the only edit would be to change the variables that reference to the list and dictionaries created for each category.
 
       
 
