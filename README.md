@@ -40,5 +40,12 @@ The analysis of the Congressional Election results identify:
 Below is a screenshot of the election results saved in a text file.
 
 ![Election_results](https://github.com/taranahassan/Elections_Analysis/blob/main/Elections_results.png?raw=true)
+
+
+## Election Audit Summary
+
+The code written using Python was successful in automating the process to tally up the results for each category.  Setting up variable names with a value before dictating the action required is essential. ![Setting_variable_example]
+, using the for loop method and if statements, we were able to read through the CSV file (with specific readers) and select the information pertaining to the statments dictated in the code.  Below are examples of statements and results.
+
       
 
