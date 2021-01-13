@@ -32,7 +32,7 @@ The analysis of the Congressional Election results identify:
       
 4. There were a total of 3 candidates with their respective total votes:
       - Charles Casper Stockham received total of **85,213** votes with *23.0%* of the total votes.
-      - Diana DeGette received total of **272,892** votes with 873.8%* of the total votes.
+      - Diana DeGette received total of **272,892** votes with *873.8%* of the total votes.
       - Raymon Anthony Doane received total of **11,606** votes with *3.1%* of total votes.
       
 5. **Diana DeGette won the election leading with 73.8% of total votes, totalling her votes to 272,892.**
