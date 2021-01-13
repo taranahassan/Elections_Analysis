@@ -45,8 +45,11 @@ Below is a screenshot of the election results saved in a text file.
 ## Election Audit Summary
 
 The code written using Python was successful in automating the process to tally up the results for each category.  Setting up variable names with a value before dictating the action required is essential. ![Setting_variable_example](https://github.com/taranahassan/Elections_Analysis/blob/main/Setting_variable_example.png?raw=true)
+
 There was the use of for loop method which lets us search through the entire dataset.  ![For_loop_example](https://github.com/taranahassan/Elections_Analysis/blob/main/For_loop_example.png?raw=true)
+
 The if statements were used to pick out the selected information we require. ![If_statement_example](https://github.com/taranahassan/Elections_Analysis/blob/main/If_statement_example.png?raw=true)
+
 Once the code is set up to retrieve the specific data, we are able to format the output to be readable.  ![Formatting_output_example](https://github.com/taranahassan/Elections_Analysis/blob/main/Formatting_output_example.png?raw=true)
 
       
