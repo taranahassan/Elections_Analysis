@@ -38,6 +38,7 @@ The analysis of the Congressional Election results identify:
 5. Diana DeGette won the election leading with 73.8% of total votes, totalling her votes to 272,892.
 
 Below is a screenshot of the election results saved in a text file.
+
 ![Election_results](https://github.com/taranahassan/Elections_Analysis/blob/main/Elections_results.png?raw=true)
       
 
