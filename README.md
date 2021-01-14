@@ -58,12 +58,12 @@ A similar code can be used for the Senatorial Election as well:
 
       1. Dataset would be much larger therefore much more beneficial and efficient when doing an election audit.  
       2. The same code can be used and would need to be expanded.  
-      3. Since the current code only extracts information for counties and candidates for the precinct of Colarado, we would need to expand that to provide multiple precincts            within a city and then multiple cities within a state.  
+      3. Since the current code only extracts information for counties and candidates for the precinct of Colarado, we would need to expand that to provide multiple precincts within a city and then multiple cities within a state.  
       4. Include more variables to initialize total votes for each city and state in addition to the county already set.
       5. Each city will have their own candidates running for the House of Representatives and each state will have candidates running for the Senate position.  
 
 In the *1st for loop with if-then statements* we have, is extracting list of counties, each counties totaling votes and percentages, the list of candidates and their respective votes and percentages. Therefore:
 
-      6. We would need to initialize a *2nd for loop with if-then statements* to extract the same for cities; each cities' totaling votes and percentages, candidates within the          city and their respective votes and percentages.  
+      6. We would need to initialize a *2nd for loop with if-then statements* to extract the same for cities; each cities' totaling votes and percentages, candidates within the city and their respective votes and percentages.  
       7. A *3rd for loop with if-then statements* will extract the same for each state.  
-      8. The code thereafter to print and save to the text file for all the data extracted can be copied for cities and states; the only edit would be to change the variables            that reference to the list and dictionaries created for each category.
+      8. The code thereafter to print and save to the text file for all the data extracted can be copied for cities and states; the only edit would be to change the variables that reference to the list and dictionaries created for each category.
