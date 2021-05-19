@@ -17,7 +17,7 @@ Typically this task is done by Excel, however Seth is interested in automating t
 
 ### Resources used
 
-- *Data source:* election_results.csv (https://github.com/taranahassan/Elections_Analysis/blob/main/Resources/election_results.csv)
+- *Data source:* [election_results.csv](https://github.com/taranahassan/Elections_Analysis/blob/main/Resources/election_results.csv)
 - Software used was Python 3.7 to execute the code and Visual Studio Code 1.52.1 was to write the script for Python
 
 ## Election Audit Results
